@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-  <title>Politica de privacidad</title>
-</head>
-<body>
-  <div class="container">
-    <p># Política de Privacidad de Pico y Placa App
+# Política de Privacidad de Pico y Placa App
 
 Última actualización: 1 septiembre 2023
 
@@ -47,7 +37,4 @@ Si tiene alguna pregunta o inquietud acerca de nuestra política de privacidad, 
 Esta política de privacidad se aplica únicamente a Pico y Placa App y no se extiende a ningún otro sitio web o servicio en línea que pueda ser accesible a través de nuestra aplicación.
 
 En Pico y Placa App, nos comprometemos a proteger la privacidad de nuestros usuarios y garantizar que su información personal se mantenga segura y confidencial.
-</p>
-</div>
-</body>
-</html>
+
