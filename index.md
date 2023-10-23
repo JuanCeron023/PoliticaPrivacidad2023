@@ -1,14 +1,14 @@
-# Política de Privacidad de Pico y Placa App
+# Política de Privacidad de Restriccion vehicular pico/placa App
 
 Última actualización: 1 septiembre 2023
 
 ## Introducción
 
-Bienvenido a Pico y Placa App. En Pico y Placa App, valoramos y respetamos la privacidad de nuestros usuarios. Esta política de privacidad explica cómo manejamos la información en nuestra aplicación.
+Bienvenido a Restriccion vehicular pico/placa App. En Restriccion vehicular pico/placa App, valoramos y respetamos la privacidad de nuestros usuarios. Esta política de privacidad explica cómo manejamos la información en nuestra aplicación.
 
 ## No Recopilación de Datos Personales
 
-En Pico y Placa App, no recopilamos ni almacenamos datos personales identificables de los usuarios. No recopilamos nombres, direcciones de correo electrónico, números de teléfono ni otra información personal.
+En Restriccion vehicular pico/placa App, no recopilamos ni almacenamos datos personales identificables de los usuarios. No recopilamos nombres, direcciones de correo electrónico, números de teléfono ni otra información personal.
 
 ## Datos de Uso
 
@@ -16,7 +16,7 @@ Podemos recopilar información sobre cómo los usuarios interactúan con nuestra
 
 ## Ubicación
 
-Pico y Placa App puede solicitar acceso a la ubicación del dispositivo del usuario para proporcionar información sobre restricciones de tráfico basadas en la ubicación del usuario. Sin embargo, no almacenamos ni seguimos la ubicación del usuario.
+Restriccion vehicular pico/placa App puede solicitar acceso a la ubicación del dispositivo del usuario para proporcionar información sobre restricciones de tráfico basadas en la ubicación del usuario. Sin embargo, no almacenamos ni seguimos la ubicación del usuario.
 
 ## Cookies
 
@@ -24,7 +24,7 @@ Nuestra aplicación no utiliza cookies ni tecnologías similares para rastrear l
 
 ## Consentimiento
 
-Al utilizar Pico y Placa App, usted acepta nuestra política de privacidad y está de acuerdo con los términos aquí descritos.
+Al utilizar Restriccion vehicular pico/placa App, usted acepta nuestra política de privacidad y está de acuerdo con los términos aquí descritos.
 
 ## Cambios en la Política de Privacidad
 
@@ -34,7 +34,7 @@ Podemos actualizar nuestra política de privacidad de vez en cuando. Le notifica
 
 Si tiene alguna pregunta o inquietud acerca de nuestra política de privacidad, por favor póngase en contacto con nosotros en [correo electrónico de contacto].
 
-Esta política de privacidad se aplica únicamente a Pico y Placa App y no se extiende a ningún otro sitio web o servicio en línea que pueda ser accesible a través de nuestra aplicación.
+Esta política de privacidad se aplica únicamente a Restriccion vehicular pico/placa App y no se extiende a ningún otro sitio web o servicio en línea que pueda ser accesible a través de nuestra aplicación.
 
-En Pico y Placa App, nos comprometemos a proteger la privacidad de nuestros usuarios y garantizar que su información personal se mantenga segura y confidencial.
+En Restriccion vehicular pico/placa App, nos comprometemos a proteger la privacidad de nuestros usuarios y garantizar que su información personal se mantenga segura y confidencial.
 
