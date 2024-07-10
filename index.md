@@ -6,8 +6,7 @@
 
 Bienvenido a Restriccion vehicular pico/placa App. En Restriccion vehicular pico/placa App, valoramos y respetamos la privacidad de nuestros usuarios. Esta política de privacidad explica cómo manejamos la información en nuestra aplicación.
 
-Nota: Esta aplicación no está asociada con ninguna entidad gubernamental. La información de pico y placa se obtiene de las publicaciones de la alcaldía de la ciudad de Pasto (Nariño), y está sujeta a las actualizaciones indicadas en dichas publicaciones. Para obtener más información sobre el pico y placa, consulta el sitio web oficial de la alcaldía de Pasto, Nariño: https://www.pasto.gov.co/index.php/contenidos/15936-pico-y-placa-2024, asi como la pagina oficial https://www.pasto.gov.co.
-
+Nota: Esta aplicación no está asociada con ninguna entidad gubernamental. La información de pico y placa se obtiene de las publicaciones de la alcaldía de la ciudad de Pasto (Nariño), y está sujeta a las actualizaciones indicadas en dichas publicaciones. Para obtener más información sobre el pico y placa, consulta el sitio web oficial de la alcaldía de Pasto, Nariño:  [pico y placa Alcaldia de Pasto](https://www.pasto.gov.co/index.php/contenidos/15936-pico-y-placa-2024), asi como la pagina oficial  [https://www.pasto.gov.co](https://www.pasto.gov.co)
 ## No Recopilación de Datos Personales
 
 En Restriccion vehicular pico/placa App, no recopilamos ni almacenamos datos personales identificables de los usuarios. No recopilamos nombres, direcciones de correo electrónico, números de teléfono ni otra información personal.
